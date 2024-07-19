@@ -1,6 +1,2 @@
-nginx:latest
-nginx:1.25.2
-redis:latest
-redis:6.2.6
-redis:7.2.5
+minio/minio
 
